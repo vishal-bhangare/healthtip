@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_array">
+        <item>Fitness</item>
+        <item>Diet</item>
+        <item>Mental Health</item>
+        <item>Sleep</item>
+    </string-array>
+
+    <string-array name="goals_array">
+        <item>Weight Loss</item>
+        <item>Muscle Gain</item>
+        <item>Better Sleep</item>
+        <item>Stress Management</item>
+    </string-array>
+</resources>
